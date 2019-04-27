@@ -25,8 +25,3 @@ Sincerily,
 
 CARLOS ALBERTO MOLINA ALVAREZ   
 Ingeniero de Sistemas  
-CC# 18415798  
-Celular 320 693 5729  
-
-
-
