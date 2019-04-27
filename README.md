@@ -18,13 +18,13 @@ Example.
 If you register as second argument the number 538, the system  stars the proccess and finally it show you, the percent 50
 
 
-Sincerily,
+Sincerily,  
 
 
-Carlos Alberto Molina Alvarez
-Ingeniero de Sistemas
-CC# 18415798
-Celular 320 693 5729
+Carlos Alberto Molina Alvarez  
+Ingeniero de Sistemas  
+CC# 18415798  
+Celular 320 693 5729  
 
 
 
